@@ -1,0 +1,12 @@
+{
+  "name": "tokens",
+  "version": "1.0.0",
+  "description": "tokens Figma - cores - fonts - etc",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
